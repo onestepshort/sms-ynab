@@ -1,0 +1,2 @@
+# sms-ynab
+SMS PARSED TO YNAB ENTRY
